@@ -1,0 +1,4 @@
+Raphaël Marty - BDD SQL Server Items/Clients - Context/Initalizer- Entity Framework - Controller - Front - Identity - Login 
+Gabriel Dubruncquez  - BDD SQL Server - Items/Clients - Context/Initalizer - Entity Framework - Controller -
+Bruce-Victor Carrayrou - Identity - Entity framework 
+Paul-Xavier Pain - BDD SQL Server - Front - Controller - Login
