@@ -1,0 +1,11 @@
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\bin\Debug\netcoreapp2.0\Nozama2.deps.json
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\bin\Debug\netcoreapp2.0\Nozama2.runtimeconfig.json
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\bin\Debug\netcoreapp2.0\Nozama2.runtimeconfig.dev.json
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\bin\Debug\netcoreapp2.0\Nozama2.dll
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\bin\Debug\netcoreapp2.0\Nozama2.pdb
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\obj\Debug\netcoreapp2.0\Nozama2.csprojResolveAssemblyReference.cache
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\obj\Debug\netcoreapp2.0\Nozama2.csproj.CoreCompileInputs.cache
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\obj\Debug\netcoreapp2.0\Nozama2.AssemblyInfoInputs.cache
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\obj\Debug\netcoreapp2.0\Nozama2.AssemblyInfo.cs
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\obj\Debug\netcoreapp2.0\Nozama2.dll
+C:\Users\Sinso\source\repos\Nozama2\Nozama2\obj\Debug\netcoreapp2.0\Nozama2.pdb

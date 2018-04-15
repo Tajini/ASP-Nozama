@@ -1,0 +1,37 @@
+﻿
+@using Nozama2.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome</h2>
+
+<div>
+
+    <h2> Log on - Existing users</h2>
+ 
+
+
+
+
+</div>
+
+<!-- _logOn.cshtml -->
+@model Nozama2.Models.LogOnModel
+
+@{
+    using (Html.BeginForm("Connexion", "Clients", FormMethod.Post))
+    {
+        <label>User Name</label>
+        @Html.TextBoxFor(m => m.UserName)
+
+        <br />
+
+        <label>Password</label>
+        @Html.TextBoxFor(m => m.Password)
+
+        <input type="submit" value="Login" />
+
+    }
+}
+
